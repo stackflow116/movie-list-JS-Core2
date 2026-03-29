@@ -1,3 +1,3 @@
 #Movie List JS Core
 
-##Second basic JavaScript project
+<h3>Second basic JavaScript project</h3>
